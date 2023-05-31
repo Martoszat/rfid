@@ -1,0 +1,296 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/905bd78eb40b3af7bb39f14c213980be/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/817c6b17fc1171eff0517fbcaef831e3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/2ba390c7e9963b425acd25c008296d0e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ff12817579b4c8f12b6dc8efd6e80bc2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/0d106b450b4b4f7a91a1b8fe4068e84b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a1c3873f09cf236f61ca502f63b5375e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b1617d3b8878566f074ee6dfceaa755f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fefea1123fa403bfafa5ab8106d4a479/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/d00ad71c43c4adadeecb03e725436110/AndroidManifest.xml:2:1-9:12
+MERGED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b631168029304687f06fc5fd806ab94c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/89a8efdba70b9fca97b57fb486a223ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9efc51d92a44e36d173d585b3970bb0a/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b3d4e12306fac663e0d717b5d61b84ee/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c0300c399dbfab585b479f6e0957a205/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/4b3a0abd409bcb98ac019ed7c6d9abf6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/8b9116409db33543c0950deefb35f1a8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/e02f3b2b3f15c1a6f70ac8baa2c5d8f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/1ae776b2212bfb8a242e15eb26e5bbb7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/6373a8a242cd45eb21ce95888fc28953/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/3ab55b5f7d16eacd63ed27802daa3630/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ae59b2fc220b07bf14b06067aa758fb7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a2afc8b8c771ea0d56ec5cabf3f51121/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ff2998186b2617d33290ae956de59463/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/0e33653785bafe0d657e7a7d4cbe1bb3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/baf852ec1eb44b14e7cc6fc6096f8f4f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/100bfff8ccfbb8033e04124e8b353410/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/2e3aa131d1a605b06ab0b67ab6563327/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/64ea9fc6a540237d7679c1b2ea77d52d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/541362b8baa55ddaaf05c568674c0fe4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c7561b04aa5208904ffb4402a548b299/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9aa5a5b74cf06e9763b1064606b24a68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a148ee60b37f9c52dc9a691668150d02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/99d8fdcaa1c0d87789544b1fc5773cbd/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9cf387e69a2ea1289684eb71a9f13853/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/63efd1cb37ced923b9435b476e296a91/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/df95ea077000d69ce2c769ade5cc1685/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b40b759431e07fe863129ca65fe25bad/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/28394aac1777eb00772225dbe1f2713a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/8875aa36da7e642c86590c53fe4569db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/49a28517d74c4f0d11ca1c2e7104d674/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a0c14114dddfecd34457cc2ab0cbb560/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/cbb1715b13659e8e2899f88a4964882d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/cdca40b7e229970037b7e67cb6491c37/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/e81c8f19f643b6d96d036d2ef6fe4373/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c628209661ce77672f121c03965cb74e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/1a83ed17bc87709ad864c546bdd2c7e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c74a5fcb5adac75ade370b6cdfb6f2f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a57dafc92fede4011a71bdcc2f9a7fce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9c8a64f86e1f41281a5e87c4a02bd728/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:4:5-44
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/817c6b17fc1171eff0517fbcaef831e3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/817c6b17fc1171eff0517fbcaef831e3/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/2ba390c7e9963b425acd25c008296d0e/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/2ba390c7e9963b425acd25c008296d0e/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/d00ad71c43c4adadeecb03e725436110/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/d00ad71c43c4adadeecb03e725436110/AndroidManifest.xml:7:5-20
+MERGED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:24:5-26:44
+MERGED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:24:5-26:44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b631168029304687f06fc5fd806ab94c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b631168029304687f06fc5fd806ab94c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/89a8efdba70b9fca97b57fb486a223ee/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/89a8efdba70b9fca97b57fb486a223ee/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9efc51d92a44e36d173d585b3970bb0a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9efc51d92a44e36d173d585b3970bb0a/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/99d8fdcaa1c0d87789544b1fc5773cbd/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/99d8fdcaa1c0d87789544b1fc5773cbd/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/49a28517d74c4f0d11ca1c2e7104d674/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/49a28517d74c4f0d11ca1c2e7104d674/AndroidManifest.xml:24:5-25:19
+	android:supportsRtl
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:9:9-41
+	android:appComponentFactory
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:12:9-77
+	android:roundIcon
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.zebra.rfid.demo.sdksample.MainActivity
+ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:14:9-24:20
+	android:screenOrientation
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:17:13-49
+	android:label
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/905bd78eb40b3af7bb39f14c213980be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/905bd78eb40b3af7bb39f14c213980be/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/817c6b17fc1171eff0517fbcaef831e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/817c6b17fc1171eff0517fbcaef831e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/2ba390c7e9963b425acd25c008296d0e/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/2ba390c7e9963b425acd25c008296d0e/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ff12817579b4c8f12b6dc8efd6e80bc2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ff12817579b4c8f12b6dc8efd6e80bc2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/0d106b450b4b4f7a91a1b8fe4068e84b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/0d106b450b4b4f7a91a1b8fe4068e84b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a1c3873f09cf236f61ca502f63b5375e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a1c3873f09cf236f61ca502f63b5375e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b1617d3b8878566f074ee6dfceaa755f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b1617d3b8878566f074ee6dfceaa755f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fefea1123fa403bfafa5ab8106d4a479/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fefea1123fa403bfafa5ab8106d4a479/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/d00ad71c43c4adadeecb03e725436110/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/d00ad71c43c4adadeecb03e725436110/AndroidManifest.xml:5:5-44
+MERGED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:7:5-9:41
+MERGED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b631168029304687f06fc5fd806ab94c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b631168029304687f06fc5fd806ab94c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/89a8efdba70b9fca97b57fb486a223ee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/89a8efdba70b9fca97b57fb486a223ee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9efc51d92a44e36d173d585b3970bb0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9efc51d92a44e36d173d585b3970bb0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b3d4e12306fac663e0d717b5d61b84ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b3d4e12306fac663e0d717b5d61b84ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c0300c399dbfab585b479f6e0957a205/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c0300c399dbfab585b479f6e0957a205/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/4b3a0abd409bcb98ac019ed7c6d9abf6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/4b3a0abd409bcb98ac019ed7c6d9abf6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/8b9116409db33543c0950deefb35f1a8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/8b9116409db33543c0950deefb35f1a8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/e02f3b2b3f15c1a6f70ac8baa2c5d8f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/e02f3b2b3f15c1a6f70ac8baa2c5d8f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/1ae776b2212bfb8a242e15eb26e5bbb7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/1ae776b2212bfb8a242e15eb26e5bbb7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/6373a8a242cd45eb21ce95888fc28953/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/6373a8a242cd45eb21ce95888fc28953/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/3ab55b5f7d16eacd63ed27802daa3630/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/3ab55b5f7d16eacd63ed27802daa3630/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ae59b2fc220b07bf14b06067aa758fb7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ae59b2fc220b07bf14b06067aa758fb7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a2afc8b8c771ea0d56ec5cabf3f51121/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a2afc8b8c771ea0d56ec5cabf3f51121/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ff2998186b2617d33290ae956de59463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/ff2998186b2617d33290ae956de59463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/0e33653785bafe0d657e7a7d4cbe1bb3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/0e33653785bafe0d657e7a7d4cbe1bb3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/baf852ec1eb44b14e7cc6fc6096f8f4f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/baf852ec1eb44b14e7cc6fc6096f8f4f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/100bfff8ccfbb8033e04124e8b353410/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/100bfff8ccfbb8033e04124e8b353410/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/2e3aa131d1a605b06ab0b67ab6563327/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/2e3aa131d1a605b06ab0b67ab6563327/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/64ea9fc6a540237d7679c1b2ea77d52d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/64ea9fc6a540237d7679c1b2ea77d52d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/541362b8baa55ddaaf05c568674c0fe4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/541362b8baa55ddaaf05c568674c0fe4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c7561b04aa5208904ffb4402a548b299/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c7561b04aa5208904ffb4402a548b299/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9aa5a5b74cf06e9763b1064606b24a68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9aa5a5b74cf06e9763b1064606b24a68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a148ee60b37f9c52dc9a691668150d02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a148ee60b37f9c52dc9a691668150d02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/99d8fdcaa1c0d87789544b1fc5773cbd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/99d8fdcaa1c0d87789544b1fc5773cbd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9cf387e69a2ea1289684eb71a9f13853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9cf387e69a2ea1289684eb71a9f13853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/63efd1cb37ced923b9435b476e296a91/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/63efd1cb37ced923b9435b476e296a91/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/df95ea077000d69ce2c769ade5cc1685/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/df95ea077000d69ce2c769ade5cc1685/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b40b759431e07fe863129ca65fe25bad/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/b40b759431e07fe863129ca65fe25bad/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/28394aac1777eb00772225dbe1f2713a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/28394aac1777eb00772225dbe1f2713a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/8875aa36da7e642c86590c53fe4569db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/8875aa36da7e642c86590c53fe4569db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/49a28517d74c4f0d11ca1c2e7104d674/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/49a28517d74c4f0d11ca1c2e7104d674/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a0c14114dddfecd34457cc2ab0cbb560/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a0c14114dddfecd34457cc2ab0cbb560/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/cbb1715b13659e8e2899f88a4964882d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/cbb1715b13659e8e2899f88a4964882d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/cdca40b7e229970037b7e67cb6491c37/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/cdca40b7e229970037b7e67cb6491c37/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/e81c8f19f643b6d96d036d2ef6fe4373/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/e81c8f19f643b6d96d036d2ef6fe4373/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c628209661ce77672f121c03965cb74e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c628209661ce77672f121c03965cb74e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/1a83ed17bc87709ad864c546bdd2c7e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/1a83ed17bc87709ad864c546bdd2c7e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c74a5fcb5adac75ade370b6cdfb6f2f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/c74a5fcb5adac75ade370b6cdfb6f2f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a57dafc92fede4011a71bdcc2f9a7fce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/a57dafc92fede4011a71bdcc2f9a7fce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9c8a64f86e1f41281a5e87c4a02bd728/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9c8a64f86e1f41281a5e87c4a02bd728/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:14:22-78
+uses-feature#android.hardware.usb.host
+ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:16:5-62
+	android:name
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:16:19-59
+uses-permission#android.permission.INTERNET
+ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:19:5-21:38
+	android:maxSdkVersion
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:21:9-35
+	android:name
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:20:9-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:RFIDAPI3Library] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/880031f75b499bb4856276c84b901385/AndroidManifest.xml:22:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/fdbcf0961f80379aa968871d013c9406/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9efc51d92a44e36d173d585b3970bb0a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9efc51d92a44e36d173d585b3970bb0a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/willianmartoszat/.gradle/caches/transforms-2/files-2.1/9efc51d92a44e36d173d585b3970bb0a/AndroidManifest.xml:24:13-58

@@ -1,0 +1,10 @@
+#Wed May 31 09:07:18 BRT 2023
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/build/intermediates/dex/debug/mergeLibDexDebug/out
+base.1=/Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+base.0=/Users/willianmartoszat/Downloads/Zebra_RFIDAPI3_SDK_2.0.2.94/SDKSample/app/build/intermediates/dex/debug/mergeExtDexDebug/out
